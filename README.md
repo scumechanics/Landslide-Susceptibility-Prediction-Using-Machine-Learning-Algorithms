@@ -1,0 +1,1 @@
+# Landslide-Susceptibility-Prediction-Using-Machine-Learning-Algorithms
