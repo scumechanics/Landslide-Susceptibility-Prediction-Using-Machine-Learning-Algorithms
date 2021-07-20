@@ -1,0 +1,10 @@
+jupyter
+matplotlib
+numpy
+pandas
+scipy
+yellowbrick
+xgboost
+shap
+seaborn
+scikit-learn
